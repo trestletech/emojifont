@@ -10,7 +10,7 @@ Maintainer: Guangchuang Yu <guangchuangyu@gmail.com>
 Description: An implementation of using emoji and fontawesome for using in both
     base and 'ggplot2' graphics.
 Depends:
-    R (>= 3.3.0)
+    R (>= 3.2.2)
 Imports:
     ggplot2,
     proto,
